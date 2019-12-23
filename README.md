@@ -7,8 +7,7 @@ In this project, I have developed a semantics-oriented search engine using neura
 Install Dependencies:
 1. pip install bert-serving-server from [here](https://github.com/hanxiao/bert-as-service)
 2. pip install tensorflow
-3. pip install tkinter
-4. pip install keras
+3. pip install keras
 
 How to run:
 
