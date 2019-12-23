@@ -20,4 +20,3 @@ How to run:
 5. To train the model run:
 `python generate_embeddings.py` and then `python train.py`. 
 Generate embeddings fetches the embeddings of quora-question-pairs and saves them. The train file loads the embeddings and trains the neural network model.
-6. To run the GUI type: `python gui_v4.py`
